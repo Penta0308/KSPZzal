@@ -1,5 +1,6 @@
 # KSPZzal
-KSP짤 감지 시스템
+KSP짤 감지 시스템  
+아직 개발 준비중...
 
 ## 소개
 [`HoDeokThaad`](https://github.com/Penta0308/HoDeokThaad)로 광고 감지를 시도했으나...  
