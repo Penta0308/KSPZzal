@@ -1,8 +1,11 @@
 {
   "aicount": 4,
-  "templateimghash": [],
-  "dirs": {
-    "0": ["img_kerbalforum9117"],
-    "1": ["img_warthunder1695"]
-  }
+  "templateimghash": [
+    "562d1c676d400a360a56ed3fd9e587e53cd0bcbae7fc16782a10d59cd8ddb9c3de01ae6094b42c907be3bca94dc8c2a3baaae5c12d2d5f9f080a48df8a1fb2f8",
+    "f0af3aa58aa0c8b2a921c7f0227b102f338e70ccd3ec8979ab363c401b678ba558aa7a0ab2a61b98f3388863922b889dd234054a93f0f437d640c1e0ff091b04"
+  ],
+  "dirs": [
+    ["F:/HoDeokThaad/img_kerbalforum9117/"],
+    ["F:/HoDeokThaad/img_warthunder1695/"]
+  ]
 }
